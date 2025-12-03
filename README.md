@@ -525,7 +525,7 @@ We compute influence scores for selected test samples and plot them:
 
 <img width="662" height="410" alt="Screenshot 2025-12-01 122309" src="https://github.com/user-attachments/assets/990fa201-aa17-4022-8b8e-a7f61d96ff24" />
 
-```
+
 
 From this, we can:
 

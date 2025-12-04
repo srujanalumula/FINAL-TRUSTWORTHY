@@ -283,7 +283,7 @@ An example folder structure for this project:
 wbc-trustworthy-ai/
 │
 |
-├── Trustworthiness_Final.ipynb          # End-to-end training of CNN + VGG16 + ResNet50  FIM, Influence Functions, robustness, Grad-CAM
+├── final_1_trustworthyai.PY          # End-to-end training of CNN + VGG16 + ResNet50  FIM, Influence Functions, robustness, Grad-CAM
 │
 ├── app_streamlit.py                     # Streamlit UI for WBC classifier
 │

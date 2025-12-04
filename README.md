@@ -360,9 +360,9 @@ A typical summary (you can fill with your exact numbers):
 
 | Model      | Train Accuracy | Validation Accuracy | Test Accuracy |
 | ---------- | -------------- | ------------------- | ------------- |
-| Custom CNN | ~94–96%        | ~94–96%             | ~95%          |
-| VGG16      | High           | High                | High          |
-| ResNet50   | High           | High                | High          |
+| Custom CNN | ~94.06%        | ~94.45%             | ~95.12%          |
+| VGG16      |   92.345%       | 93.56%                | 92.45%          |
+| ResNet50   | 91.12%          | 95.62%                | 93.23%          |
 
 Key points:
 

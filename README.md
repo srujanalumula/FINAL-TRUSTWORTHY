@@ -166,6 +166,7 @@ We use the **White Blood Cells Dataset** from Kaggle:
 
 * Author: **Masoud Nickparvar**
 * Contains labeled WBC images for 5 classes.
+<img width="1390" height="747" alt="image" src="https://github.com/user-attachments/assets/a9734783-15f3-475a-9177-d245845acb57" />
 
 ### 3.2 Classes
 
@@ -398,6 +399,7 @@ Typical observations:
 * Basophils are rare → may show slightly lower recall due to class imbalance
 
 ---
+<img width="1111" height="350" alt="image" src="https://github.com/user-attachments/assets/71e1371f-97c9-4274-8f8e-1a4a99b7b1e8" />
 
 <a name="robustness-evaluation-trustworthiness"></a>
 
